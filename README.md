@@ -2,8 +2,9 @@
 
 I build tools, then I publish the thing that checks them.
 
-PhD researcher moving into mechanistic interpretability. Everything here runs on
-a laptop, most of it on macOS, and none of it phones home.
+PhD researcher moving into mechanistic interpretability, with a past in immersive
+VR. Everything here runs on a laptop, most of it on macOS, and none of it phones
+home.
 
 **What I am building now**
 
