@@ -14,6 +14,7 @@ home.
 | [claude-codex-bridge](https://github.com/nerln/claude-codex-bridge) | Moves a live coding conversation between Claude Code and Codex, both directions, as a native resumable session |
 | [scriba](https://github.com/nerln/scriba) | Voice memo in, speaker labelled document out. Runs whisperX and pyannote locally and remembers who is who next time |
 | [molo](https://github.com/nerln/molo) | A local queue for yt-dlp on Mac, Windows and Android |
+| [placa](https://nerln.github.io/placa/) | Who wins Gran Hermano Argentina, from the vote splits the broadcaster reads out on air. Spanish |
 
 **How these are written**
 
@@ -24,3 +25,11 @@ tested against.
 
 That is the whole idea. Anybody can claim a tool works. The interesting part is
 handing you the thing that would catch me if it did not.
+
+The clearest example is not a tool. [placa](https://nerln.github.io/placa/)
+forecasts a reality show from the vote splits the broadcaster reads out on air.
+It also refits itself against the six episodes already played and reports that
+the rejection trait, on its own, ranks the person who actually left 5th out of 6
+when chance would rank them 3.5th. Zero hits out of six, p = 0.020. That is on
+the page, with the permutation test next to it, and the scoring rule for the
+rest of the season was written down before the season ended.
