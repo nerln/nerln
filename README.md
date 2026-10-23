@@ -49,10 +49,10 @@ I'm a developer and PhD student at the Universitat de València, in the NIMLab g
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://nerln.github.io/vesta/">
+<a href="https://nerln.github.io/argano/">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/vesta-dark.png">
-<img src="https://nerln.github.io/highlights/vesta.png" alt="vesta. Try your clothes on a photo of yourself. Made with Gianmattia Barone. Shows the wardrobe in the browser, with generic garments such as a cardigan and a tank top." width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/argano-dark.png">
+<img src="https://nerln.github.io/highlights/argano.png" alt="argano. Repairs a video that will not play, in the browser. Nothing is uploaded. Shows its page in the browser, with a drop area for a video that will not play and a note that the video is not uploaded." width="100%">
 </picture>
 </a>
 </td>
