@@ -13,6 +13,24 @@ I'm a developer and PhD student at the Universitat de València, in the NIMLab g
 </a>
 </td>
 <td width="50%" valign="top">
+<a href="https://zaffo-cirrus.nerln.workers.dev/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/zaffo-dark.png">
+<img src="https://nerln.github.io/highlights/zaffo.png" alt="ZAFFO. A 3D platformer for one or two, with Gianmattia Barone. In progress. Shows the title screen of the game, a blue dragon over a castle and floating islands, with the buttons to play alone or with a friend." width="100%">
+</picture>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://nerln.github.io/falla/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/falla-dark.png">
+<img src="https://nerln.github.io/highlights/falla.png" alt="falla. Finds the frame where a 3D scene or a video breaks. In the browser. Shows its page, with the headline about finding the frame where a 3D scene breaks and a sample frame with the first problem outlined." width="100%">
+</picture>
+</a>
+</td>
+<td width="50%" valign="top">
 <a href="https://nerln.github.io/tamiz/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/tamiz-dark.png">
@@ -23,36 +41,18 @@ I'm a developer and PhD student at the Universitat de València, in the NIMLab g
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://woowoo-calendar.pages.dev/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/woowoo-dark.png">
+<img src="https://nerln.github.io/highlights/woowoo.png" alt="WooWoo. A calendar with two views of the day: dates and thirteen moons. Shows the start of its site, with the headline about living by thirteen moons and a card that reads the day as a day of the fourth moon." width="100%">
+</picture>
+</a>
+</td>
+<td width="50%" valign="top">
 <a href="https://aprendecontigo.pages.dev/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/contigo-dark.png">
 <img src="https://nerln.github.io/highlights/contigo.png" alt="contigo. Learn a language, with you. Alone first, then with someone you love. Shows the start of its site, with the headline about studying alone first and then with someone, beside a phone showing the app." width="100%">
-</picture>
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://nerln.github.io/scriba/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/scriba-dark.png">
-<img src="https://nerln.github.io/highlights/scriba.png" alt="scriba. Voice memo in, document with named speakers out, all on your machine. Shows the Mac window where the two voices of a recording are named, with the transcript below." width="100%">
-</picture>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://nerln.github.io/plancia/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/plancia-dark.png">
-<img src="https://nerln.github.io/highlights/plancia.png" alt="plancia. A Mac board for Claude Code and Codex tasks, with a spoken recap. Shows the Today window on the Mac, with a recap of the day and the next tasks by project." width="100%">
-</picture>
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://nerln.github.io/argano/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/argano-dark.png">
-<img src="https://nerln.github.io/highlights/argano.png" alt="argano. Repairs a video that will not play, in the browser. Nothing is uploaded. Shows its page in the browser, with a drop area for a video that will not play and a note that the video is not uploaded." width="100%">
 </picture>
 </a>
 </td>
