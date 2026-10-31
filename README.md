@@ -23,18 +23,18 @@ I'm a developer and PhD student at the Universitat de València, in the NIMLab g
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://nerln.github.io/falla/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/falla-dark.png">
-<img src="https://nerln.github.io/highlights/falla.png" alt="falla. Finds the frame where a 3D scene or a video breaks. In the browser. Shows its page, with the headline about finding the frame where a 3D scene breaks and a sample frame with the first problem outlined." width="100%">
-</picture>
-</a>
-</td>
-<td width="50%" valign="top">
 <a href="https://nerln.github.io/tamiz/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/tamiz-dark.png">
 <img src="https://nerln.github.io/highlights/tamiz.png" alt="tamiz. Valencian aid and grants. Your answers never leave the browser. Shows the start page, in Spanish, with the headline about aid and grants you may qualify for and a button to start." width="100%">
+</picture>
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://nerln.github.io/falla/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/falla-dark.png">
+<img src="https://nerln.github.io/highlights/falla.png" alt="falla. Finds the frame where a 3D scene or a video breaks. In the browser. Shows its page, with the headline about finding the frame where a 3D scene breaks and a sample frame with the first problem outlined." width="100%">
 </picture>
 </a>
 </td>
@@ -49,10 +49,10 @@ I'm a developer and PhD student at the Universitat de València, in the NIMLab g
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://aprendecontigo.pages.dev/">
+<a href="https://nerln.github.io/reflip/">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/contigo-dark.png">
-<img src="https://nerln.github.io/highlights/contigo.png" alt="contigo. Learn a language, with you. Alone first, then with someone you love. Shows the start of its site, with the headline about studying alone first and then with someone, beside a phone showing the app." width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/reflip-dark.png">
+<img src="https://nerln.github.io/highlights/reflip.png" alt="reflip. Removes text watermarks with a local model, then checks they are gone. Shows the Mac window with a text to rewrite, the rewritten result and the figures measured afterwards." width="100%">
 </picture>
 </a>
 </td>
