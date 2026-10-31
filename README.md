@@ -49,10 +49,10 @@ I'm a developer and PhD student at the Universitat de València, in the NIMLab g
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://nerln.github.io/reflip/">
+<a href="https://aprendecontigo.pages.dev/">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/reflip-dark.png">
-<img src="https://nerln.github.io/highlights/reflip.png" alt="reflip. Removes text watermarks with a local model, then checks they are gone. Shows the Mac window with a text to rewrite, the rewritten result and the figures measured afterwards." width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://nerln.github.io/highlights/contigo-dark.png">
+<img src="https://nerln.github.io/highlights/contigo.png" alt="contigo. Learn a language, with you. Alone first, then with someone you love. Shows the start of its site, with the headline about studying alone first and then with someone, beside a phone showing the app." width="100%">
 </picture>
 </a>
 </td>
